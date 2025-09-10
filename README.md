@@ -1,5 +1,7 @@
+[![roadmap.sh](https://roadmap.sh/card/wide/65f99cc3adfe42161730c407?variant=dark&roadmaps=frontend%2Cgit-github%2Cfull-stack%2Cux-design)](https://roadmap.sh)
+
 ## Hello World! 👋
-- 🌱 Currently studying Web Development.
+- 🌱 Studying Web Development.
 - 📫 Contact me: jessa.oxley@gmail.com or on any of my socials.
 - ❤️ Socials: https://linktr.ee/sleepingpixels
 - 😄 Pronouns: She/her
