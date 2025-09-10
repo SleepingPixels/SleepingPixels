@@ -1,4 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/65f99cc3adfe42161730c407?variant=dark&roadmaps=frontend%2Cgit-github%2Cfull-stack%2Cux-design)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65f99cc3adfe42161730c407?variant=dark&roadmaps=git-github%2Cfull-stack%2Cux-design)](https://roadmap.sh)
 
 ## Hello World! 👋
 - 🌱 Studying Web Development.
