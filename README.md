@@ -1,7 +1,7 @@
 ## Hello World! 👋
-- 🌱 Studying full stack web development through The Odin Project.
+- 🌱 Studying full stack web development through [The Odin Project](https://www.theodinproject.com/)
 - 📫 Contact me: jessa.oxley@gmail.com or on any of my socials.
-- ❤️ Socials: https://linktr.ee/sleepingpixels
+- ❤️ Socials: [Linktree](https://linktr.ee/sleepingpixels)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I also make pixel art and cross-stitch patterns! @Sleepingpixels
 
