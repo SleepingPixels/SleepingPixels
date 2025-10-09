@@ -1,7 +1,5 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/65f99cc3adfe42161730c407?variant=dark&roadmaps=git-github%2Cfull-stack%2Cux-design)](https://roadmap.sh)
-
 ## Hello World! 👋
-- 🌱 Studying Web Development.
+- 🌱 Studying full stack web development through The Odin Project.
 - 📫 Contact me: jessa.oxley@gmail.com or on any of my socials.
 - ❤️ Socials: https://linktr.ee/sleepingpixels
 - 😄 Pronouns: She/her
