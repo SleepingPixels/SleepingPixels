@@ -20,6 +20,9 @@ I create pixel art and turn it into things like cross-stitch patterns. I'm inspi
 ![](https://github-contributor-stats.vercel.app/api?username=sleepingpixels&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api?username=sleepingpixels&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepingpixels&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
