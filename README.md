@@ -1,9 +1,9 @@
-## Hello World! 👋
-- 🌱 Studying full stack web development through [The Odin Project](https://www.theodinproject.com/)
-- 📫 Contact me: jessa.oxley@gmail.com or on any of my socials.
-- ❤️ Socials: [Linktree](https://linktr.ee/sleepingpixels)
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I also make pixel art and cross-stitch patterns! @Sleepingpixels
+## Hey I'm Jess! 👋
+🌱 Studying full stack web development through [The Odin Project](https://www.theodinproject.com/)<br/>
+😄 Pronouns: She/her<br/>
+❤️ Socials: [Linktree](https://linktr.ee/sleepingpixels)<br/>
+⚡ Fun fact: I make pixel art and cross-stitch patterns which I sometimes share on my [YouTube](https://www.youtube.com/@Sleeping.Pixels) channel.<br/> 
+📫 Contact me: jessa.oxley@gmail.com or on any of my socials.<br/>
 
 ## A little bit about me...
 Hi, I'm Jess. 
@@ -12,6 +12,10 @@ I create pixel art and turn it into stuff. I'm inspired by retro indie games, no
 I also really enjoy problem-solving and coding in pretty themes. 
 I’m a socially awkward, neurodivergent soul who loves nothing more than curling up in an oversized hoodie with a cup of French Earl Grey tea. 
 Most days, I’m in my home studio making pixel art, studying code and listening to music.
+
+[![Sleeping Pixels GitHub stats](https://github-readme-stats.vercel.app/api?username=SleepingPixels&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepingpixels&layout=compact&show_icons=true&theme=catppuccin_mocha)
 
 <!--
 **roxire/Roxire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
