@@ -1,6 +1,6 @@
 ## Hi, I'm Jess! 👋
-I was born and raised in the 80s and 90s, I think that makes me a Millenial... I have a soft spot for all things retro and nostalgia and I love to create pixel art and turn it into stuff. I'm inspired by lo-fi music, games, and cozy, wholesome vibes. Games of choice: World of Warcraft and Stardew Valley 🎮✨ <br/>
-<br/>I enjoy problem-solving, tinkering with code and I'm currently working towards a career in the web development spcace. <br/>
+I was born and raised in the 80s & 90s, I think that makes me a Millenial... I have a soft spot for all things retro and nostalgia and I love to create pixel art and turn it into stuff. I'm inspired by lo-fi music, games, and cozy, wholesome vibes. Games of choice: World of Warcraft and Stardew Valley 🎮✨ <br/>
+<br/>I enjoy problem-solving, tinkering with code and currently working toward a career in the web development space. <br/>
 
 💻 Studying web development through [The Odin Project](https://www.theodinproject.com/)<br/>
 ⭐️ Looking to become a Front End Web Developer.<br/>
